@@ -28,6 +28,20 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
 
+    @IBAction func onEditingChanged(sender: AnyObject) {
+        println("User editing bill")
+        
+        var billAmount = NSString(string: billField.text).doubleValue
+        var tip = billAmount * 0.2
+        var total = billAmount + tip
+        
+        tipLabel.text = "$\(tip)"
+        totalLabel.text = "$\(total)"
+        
+        tipLabel.text = String(format: "$%.2f", tip)
+        totalLabel.text = String(format: "$%.2f", total)
+        
+    }
 
 }
 
