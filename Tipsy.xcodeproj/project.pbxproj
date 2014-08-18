@@ -409,6 +409,7 @@
 				40EE156219A15DD200F1C434 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		40EE156319A15DD200F1C434 /* Build configuration list for PBXNativeTarget "TipsyTests" */ = {
 			isa = XCConfigurationList;
@@ -417,6 +418,7 @@
 				40EE156519A15DD200F1C434 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
