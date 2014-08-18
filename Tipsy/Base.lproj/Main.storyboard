@@ -31,7 +31,7 @@
                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                         <subviews>
                             <view contentMode="scaleToFill" id="CdQ-kr-8a6">
-                                <rect key="frame" x="0.0" y="209" width="320" height="359"/>
+                                <rect key="frame" x="0.0" y="210" width="320" height="359"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" red="0.10683432966470718" green="0.24945086240768433" blue="0.34101390838623047" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                             </view>
